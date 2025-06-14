@@ -32,3 +32,8 @@
 ## ⚙️ Chạy website:
 Truy cập trình duyệt tại:
 http://datlichcattoc.free.nf/web-project/frontend/index.html
+
+---
+
+## 📺 [Xem demo trên Drive](https://drive.google.com/drive/folders/19pB3Hdem1fbwu_gl97-dbdFUfeY6O9de?usp=sharing)
+
